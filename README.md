@@ -108,6 +108,7 @@ sns.boxplot(x='Experience_Years',data=df)
 ![image](https://github.com/NITHISH74/ODD2023-DataScience-Ex-03/assets/94164665/0ef2ae1a-b0b0-4565-bb84-a93f6f6ef80a)
 
 ## Result:
-Hence the univariate analysis is verified.
+Hence the given CSV File was verified successfully with the help of the Univariate Analysis technique.
+
 
 
